@@ -1,1 +1,1 @@
-# NumberSelectorAndroidStudioProject
+Open in Android Studio Koala+, sync Gradle, Build APK(s).
